@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Mes projets de l'ecole 42 ici -> https://github.com/42-cursus-osonseth
 <!--
 **osonseth/osonseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
